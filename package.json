@@ -9,8 +9,8 @@
     "layout"
   ],
   "dependencies": {
-    "graphlib": "^1.0.1",
-    "lodash": "^2.4.1"
+    "graphlib": "^2.1.1",
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "benchmark": "^1.0.0",
